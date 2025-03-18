@@ -7,9 +7,9 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="com.crm.SalesAndInventorySystemProject.admin.suppliertest.CreateSupplierTest" />
-			<class name="com.crm.SalesAndInventorySystemProject.admin.employeetest.CreateEmployeeTest"/>
-			<class name="com.crm.SalesAndInventorySystemProject.user.keyboardtest.CreateKeyboardTest" />
+			<class name="com.crm.JonesSalesAndInventoryProject.admin.suppliertest.CreateSupplierTest" />
+			<class name="com.crm.JonesSalesAndInventoryProject.admin.employeetest.CreateEmployeeTest"/>
+			<class name="com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest" />
 		</classes>
 	</test> <!--
 	Test -->

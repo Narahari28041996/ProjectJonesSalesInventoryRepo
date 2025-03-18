@@ -8,8 +8,8 @@
 </groups>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.crm.SalesAndInventorySystemProject.admin.employeetest.CreateEmployeeTest"/>
-      <class name="com.crm.SalesAndInventorySystemProject.admin.suppliertest.CreateSupplierTest"/>
+      <class name="com.crm.JonesSalesAndInventoryProject.admin.employeetest.CreateEmployeeTest"/>
+      <class name="com.crm.JonesSalesAndInventoryProject.admin.suppliertest.CreateSupplierTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

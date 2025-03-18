@@ -4,14 +4,14 @@
 	<test name="Test-1">
 		<classes>
 			<class
-				name="com.crm.SalesAndInventorySystemProject.user.keyboardtest.CreateKeyboardTest" />
+				name="com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest" />
 		</classes>
 	</test> <!--Test -->
 
 	<test name="Test-2">
 		<classes>
 			<class
-				name="com.crm.SalesAndInventorySystemProject.admin.employeetest.CreateEmployeeTest" />
+				name="com.crm.JonesSalesAndInventoryProject.admin.employeetest.CreateEmployeeTest" />
 		</classes>
 	</test> <!--Test -->
 </suite> <!--Suite -->
