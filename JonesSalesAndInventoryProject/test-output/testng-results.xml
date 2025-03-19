@@ -2,43 +2,43 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-18T16:33:30 IST" name="Suite" finished-at="2025-03-18T16:33:51 IST" duration-ms="20989">
+  <suite started-at="2025-03-18T17:15:58 IST" name="Default suite" finished-at="2025-03-18T17:16:11 IST" duration-ms="13194">
     <groups>
       <group name="integrationTest">
         <method signature="CreateKeyboardTest.createKeyboardTest()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" name="createKeyboardTest" class="com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest"/>
       </group> <!-- integrationTest -->
     </groups>
-    <test started-at="2025-03-18T16:33:30 IST" name="Test" finished-at="2025-03-18T16:33:51 IST" duration-ms="20989">
+    <test started-at="2025-03-18T17:15:58 IST" name="Default test" finished-at="2025-03-18T17:16:11 IST" duration-ms="13194">
       <class name="com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:25 IST" name="configBS" finished-at="2025-03-18T16:33:30 IST" duration-ms="5104" status="PASS">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:15:57 IST" name="configBS" finished-at="2025-03-18T17:15:58 IST" duration-ms="422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configCS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:30 IST" name="configCS" finished-at="2025-03-18T16:33:38 IST" duration-ms="7993" status="PASS">
+        <test-method is-config="true" signature="configCS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:15:58 IST" name="configCS" finished-at="2025-03-18T17:16:01 IST" duration-ms="3392" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configCS -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:38 IST" name="configBM" finished-at="2025-03-18T16:33:40 IST" duration-ms="1532" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:16:01 IST" name="configBM" finished-at="2025-03-18T17:16:02 IST" duration-ms="602" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="createKeyboardTest()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:40 IST" name="createKeyboardTest" finished-at="2025-03-18T16:33:49 IST" duration-ms="9478" status="PASS">
+        <test-method signature="createKeyboardTest()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:16:02 IST" name="createKeyboardTest" finished-at="2025-03-18T17:16:10 IST" duration-ms="7982" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createKeyboardTest -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:49 IST" name="configAM" finished-at="2025-03-18T16:33:51 IST" duration-ms="1492" status="PASS">
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:16:10 IST" name="configAM" finished-at="2025-03-18T17:16:10 IST" duration-ms="739" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:51 IST" name="configAC" finished-at="2025-03-18T16:33:51 IST" duration-ms="427" status="PASS">
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:16:10 IST" name="configAC" finished-at="2025-03-18T17:16:11 IST" duration-ms="441" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAC -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T16:33:51 IST" name="configAS" finished-at="2025-03-18T16:33:51 IST" duration-ms="19" status="PASS">
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest@73a1e9a9]" started-at="2025-03-18T17:16:11 IST" name="configAS" finished-at="2025-03-18T17:16:11 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
       </class> <!-- com.crm.JonesSalesAndInventoryProject.user.keyboardtest.CreateKeyboardTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

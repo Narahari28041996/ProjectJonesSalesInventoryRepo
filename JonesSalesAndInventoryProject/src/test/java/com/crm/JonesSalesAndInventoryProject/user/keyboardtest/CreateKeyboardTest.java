@@ -33,7 +33,7 @@ public class CreateKeyboardTest extends BaseClassUtility {
 		HomePage hp = new HomePage(driver);
 		hp.getKeyboard_Link().click();
 		KeyboardPage mp = new KeyboardPage(driver);
-		mp.createMonitor(quantity, custname, price);
+		mp.createKeyboard(quantity, custname, price);
 		hp.logOutFromApp();
 		String username = eUtil.getDataFromExcel("Product", 1, 5);
 		String password = eUtil.getDataFromExcel("Product", 1, 6);

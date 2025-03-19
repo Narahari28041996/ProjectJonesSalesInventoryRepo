@@ -22,7 +22,7 @@ public class KeyboardPage {
 		PageFactory.initElements(driver, this);
 	}
 
-	@FindBy(xpath = "//h6[text()='₱ 550']/../input[@value='1']/../input[@value='Add']")
+	@FindBy(xpath = "(//input[@value='Add'])[1]")
 	private WebElement addBtn;
 	
 	@FindBy(name = "customer")
@@ -61,7 +61,7 @@ public class KeyboardPage {
 		return proceedBtn;
 	}
 	
-	public void createMonitor(String quantity, String customername, String cash) {
+	public void createKeyboard(String quantity, String customername, String cash) {
 		addBtn.click();
 		Select customerSel = new Select(customerEdit);
 		customerSel.selectByVisibleText(customername);
